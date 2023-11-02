@@ -13,6 +13,7 @@ nav {
   padding: 1rem;
   background-color: grey;
   border-radius: 5px;
+  align-items: center;
 }
 
 a {
@@ -43,10 +44,10 @@ p {
 }
 
 .Icarus {
-  font-family: serif;
+  font-family: fantasy;
   display: flex;
   justify-content: center;
-  font-size: x-large;
+  font-size: larger;
 }
 
 section > section {
@@ -54,4 +55,11 @@ section > section {
   border-radius: 2px;
   display: flex;
   padding: 0.5rem;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  text-decoration: underline;
 }
