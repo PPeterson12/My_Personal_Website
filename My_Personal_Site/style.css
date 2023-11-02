@@ -53,4 +53,5 @@ section > section {
   border: solid 1px black;
   border-radius: 2px;
   display: flex;
+  padding: 0.5rem;
 }
